@@ -147,11 +147,11 @@ export const aboutData: About = {
   // 右侧信息项（地点、年龄、兴趣等）
   aboutItems: [
     {label: '所在城市', text: '陕西西安', Icon: MapIcon},
-    {label: '年龄', text: '24', Icon: CalendarIcon},
+    {label: '年龄', text: '23', Icon: CalendarIcon},
     {label: '民族', text: '汉族', Icon: FlagIcon},
     {label: '兴趣爱好', text: '篮球、健身', Icon: SparklesIcon},
     {label: '学历', text: '工学硕士', Icon: AcademicCapIcon},
-    {label: '学校', text: '长安大学(211，双一流)', Icon: BuildingOffice2Icon},
+    {label: '学校', text: '长安大学()', Icon: BuildingOffice2Icon},
   ],
 };
 
